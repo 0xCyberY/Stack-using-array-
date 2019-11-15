@@ -1,0 +1,91 @@
+Stack Implementation:
+ 1.push:
+2.pop:
+3.display:
+4.exit:
+1
+Enter the element to be inserted:
+20
+
+Stack Implementation:
+ 1.push:
+2.pop:
+3.display:
+4.exit:
+1
+Enter the element to be inserted:
+32
+
+Stack Implementation:
+ 1.push:
+2.pop:
+3.display:
+4.exit:
+3
+
+ Element in the stack are:
+
+ 32
+ 20
+Stack Implementation:
+ 1.push:
+2.pop:
+3.display:
+4.exit:
+1
+Enter the element to be inserted:
+41
+
+Stack Implementation:
+ 1.push:
+2.pop:
+3.display:
+4.exit:
+3
+
+ Element in the stack are:
+
+ 41
+ 32
+ 20
+Stack Implementation:
+ 1.push:
+2.pop:
+3.display:
+4.exit:
+2
+Deleted element is 41:
+Stack Implementation:
+ 1.push:
+2.pop:
+3.display:
+4.exit:
+3
+
+ Element in the stack are:
+
+ 32
+ 20
+Stack Implementation:
+ 1.push:
+2.pop:
+3.display:
+4.exit:
+2
+Deleted element is 32:
+Stack Implementation:
+ 1.push:
+2.pop:
+3.display:
+4.exit:
+3
+
+ Element in the stack are:
+
+ 20
+Stack Implementation:
+ 1.push:
+2.pop:
+3.display:
+4.exit:
+4
